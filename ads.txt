@@ -1,3 +1,4 @@
 0.0.0.0 clear-tv.com
 0.0.0.0 tck.lmadps.jp
 0.0.0.0 pr.dmm.co.jp
+0.0.0.0 ssp.getallmedia.com
