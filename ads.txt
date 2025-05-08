@@ -1,9 +1,11 @@
+#アダルト広告
 0.0.0.0 clear-tv.com
 0.0.0.0 tck.lmadps.jp
 0.0.0.0 pr.dmm.co.jp
 0.0.0.0 ssp.getallmedia.com
 0.0.0.0 tr.dsp.bance.jp
 
+#警告系広告
 0.0.0.0 allin1convert.com
 0.0.0.0 any-files-manager.com
 0.0.0.0 any-fileopenerapp.com
