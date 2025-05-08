@@ -4,12 +4,11 @@
 0.0.0.0 pr.dmm.co.jp
 0.0.0.0 ssp.getallmedia.com
 0.0.0.0 tr.dsp.bance.jp
+0.0.0.0 s.magsrv.com
+0.0.0.0 s3t3d2y9.afcdn.net
 
 #その他広告
 0.0.0.0 ad.ad-arrow.com
-
-#その他アダルト系
-0.0.0.0 s3t3d2y9.afcdn.net
 
 #警告系広告
 0.0.0.0 allin1convert.com
