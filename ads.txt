@@ -1,5 +1,5 @@
 #API
-# 0.0.0.0 api.mcdanycarry.com
+0.0.0.0 api.mcdanycarry.com
 
 #アダルト広告
 0.0.0.0 clear-tv.com
