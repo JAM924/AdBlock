@@ -5,7 +5,7 @@
 #自制
 0.0.0.0 demae-can.com
 0.0.0.0 wolt.com
-0.0.0.0 www.ubereats.com
+0.0.0.0 ubereats.com
 
 #アダルト広告
 0.0.0.0 clear-tv.com
