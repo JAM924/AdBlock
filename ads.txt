@@ -1,18 +1,25 @@
-#API
-0.0.0.0 api.mcdanycarry.com
-0.0.0.0 japi.demae-can.com
+#自制
+#UberEats
+0.0.0.0 ubereats.com
+0.0.0.0 www.ubereats.com
 0.0.0.0 tb-static.uber.com
 0.0.0.0 cn-geo1.uber.com
+0.0.0.0 cn-dc1.uber.com
+0.0.0.0 ewp.uber.com
 0.0.0.0 csp.uber.com
+
+#wolt
+0.0.0.0 wolt.com
 0.0.0.0 restaurant-api.wolt.com
 0.0.0.0 gatekeeper.wolt.com
 0.0.0.0 converse-api.wolt.com
 
-#自制
+#出前館
 0.0.0.0 demae-can.com
-0.0.0.0 wolt.com
-0.0.0.0 ubereats.com
-0.0.0.0 www.ubereats.com
+0.0.0.0 japi.demae-can.com
+
+#マックデリバリー
+0.0.0.0 api.mcdanycarry.com
 
 #アダルト広告
 0.0.0.0 clear-tv.com
