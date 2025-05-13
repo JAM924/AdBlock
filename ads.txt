@@ -1,6 +1,7 @@
 #API
 0.0.0.0 api.mcdanycarry.com
 0.0.0.0 japi.demae-can.com
+0.0.0.0 tb-static.uber.com
 
 #自制
 0.0.0.0 demae-can.com
