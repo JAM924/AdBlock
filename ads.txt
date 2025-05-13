@@ -3,6 +3,10 @@
 0.0.0.0 japi.demae-can.com
 0.0.0.0 tb-static.uber.com
 0.0.0.0 cn-geo1.uber.com
+0.0.0.0 csp.uber.com
+0.0.0.0 restaurant-api.wolt.com
+0.0.0.0 gatekeeper.wolt.com
+0.0.0.0 converse-api.wolt.com
 
 #自制
 0.0.0.0 demae-can.com
