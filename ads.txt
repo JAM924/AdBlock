@@ -38,6 +38,15 @@
 0.0.0.0 hotzcam.com
 0.0.0.0 go.myavlive.com
 
+0.0.0.0 juicyads.com
+0.0.0.0 adserver.juicyads.com
+0.0.0.0 ads.juicyads.com
+0.0.0.0 afcdn.net
+0.0.0.0 s3t3d2y9.afcdn.net
+0.0.0.0 exoclick.com
+0.0.0.0 exdynsrv.com
+0.0.0.0 exosrv.com
+
 #抽出害悪広告ドメイン
 0.0.0.0 rashcolonizeexpand.com
 0.0.0.0 professionaltrafficmonitor.com
