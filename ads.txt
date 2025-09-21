@@ -38,11 +38,20 @@
 0.0.0.0 hotzcam.com
 0.0.0.0 go.myavlive.com
 
+#抽出害悪広告ドメイン
 0.0.0.0 rashcolonizeexpand.com
 0.0.0.0 professionaltrafficmonitor.com
 0.0.0.0 preferencenail.com
 0.0.0.0 prepareprintingapologizing.com
 0.0.0.0 weirdopt.com
+0.0.0.0 creative-sb1.com
+0.0.0.0 kettledroopingcontinuation.com
+0.0.0.0 prepareprintingapologizing.com
+0.0.0.0 preferencenail.com
+0.0.0.0 professionaltrafficmonitor.com
+0.0.0.0 puppyderisiverear.com
+0.0.0.0 rashcolonizeexpand.com
+0.0.0.0 sentry.developzilla.com
 
 #その他広告
 0.0.0.0 ad.ad-arrow.com
