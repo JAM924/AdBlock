@@ -54,6 +54,8 @@
 0.0.0.0 sentry.developzilla.com
 0.0.0.0 s.pemsrv.com
 0.0.0.0 pemsrv.com
+0.0.0.0 a.magsrv.com
+0.0.0.0 magsrv.com
 0.0.0.0 c.adsco.re
 0.0.0.0 adsco.re
 0.0.0.0 endowmentoverhangutmost.com
