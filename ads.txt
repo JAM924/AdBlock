@@ -56,6 +56,7 @@
 0.0.0.0 pemsrv.com
 0.0.0.0 c.adsco.re
 0.0.0.0 adsco.re
+0.0.0.0 endowmentoverhangutmost.com
 
 #その他広告
 0.0.0.0 ad.ad-arrow.com
