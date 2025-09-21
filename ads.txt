@@ -38,6 +38,12 @@
 0.0.0.0 hotzcam.com
 0.0.0.0 go.myavlive.com
 
+0.0.0.0 rashcolonizeexpand.com
+0.0.0.0 professionaltrafficmonitor.com
+0.0.0.0 preferencenail.com
+0.0.0.0 prepareprintingapologizing.com
+0.0.0.0 weirdopt.com
+
 #その他広告
 0.0.0.0 ad.ad-arrow.com
 
