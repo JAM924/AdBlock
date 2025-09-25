@@ -75,6 +75,7 @@
 0.0.0.0 endowmentoverhangutmost.com
 0.0.0.0 poweredby.jads.co
 0.0.0.0 jads.co
+0.0.0.0 cdn.tokyo-motion.net
 
 #その他広告
 0.0.0.0 ad.ad-arrow.com
